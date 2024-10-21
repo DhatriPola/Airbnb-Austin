@@ -35,9 +35,9 @@ SQL queries employ techniques like window functions, self-joins, CASE statements
 
 1. Listings with high occupancy rates and competitive pricing generate the highest income, with premium properties in desirable neighborhoods standing out.
    
-2. Neighborhoods with high demand and balanced listing volumes include Sunset Valley, West Lake Hills, and Lakeway. These areas offer strong potential for new Airbnb investments.
+2. Neighborhoods with high demand and balanced listing volumes include Sunrise Beach Village, Smithville, West Lake Hills. These areas offer strong potential for new Airbnb investments.
 
-3. Entire homes and apartments rank highest, with a good balance of price per person and availability. These property types attract longer stays, making them more profitable.
+3. Private room in a home and entire cabin rank highest, with a good balance of price per person and availability. These property types attract longer stays, making them more profitable.
 
 4. The majority of reviews are positive, indicating a high level of guest satisfaction. However, some reviews flagged "dirty" conditions, highlighting areas where cleanliness can be improved.
 
